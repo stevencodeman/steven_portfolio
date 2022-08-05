@@ -74,7 +74,7 @@ p {
     width: 200px;
     height: 55px;
     border-radius: 30px;
-    background-color: coral;
+    background-color: rgb(90, 2, 2);
     text-align: center;
     font-size: 30px;
     font-weight: 300;
@@ -83,7 +83,7 @@ p {
 }
 
 .button:hover {
-    background-color: #ef744b;
+    background-color: #676767;
 }
 
 .button:active {
@@ -159,7 +159,7 @@ hr {
 
 .project-link {
     text-decoration: none;
-    color: #ef744b;
+    color: #c62828;
 }
 
 a {
